@@ -6,7 +6,8 @@ Code for the paper
 <br>[Aishan Liu](https://liuaishan.github.io/), Tairan Huang, [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/), Yitao Xu, Yuqing Ma, [Xinyun Chen](https://jungyhuk.github.io/), Stephen Maybank, [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html)
 <br>European Conference on Computer Vision (ECCV), 2020
 
-![avatar](frontpage.png)
+![alt](https://github.com/liuaishan/SpatiotemporalAttack/blob/master/frontpage.jpg)
+<img src="https://github.com/liuaishan/SpatiotemporalAttack/blob/master/frontpage.jpg" width="50%">
 
 In this work, we take the first step to study adversarial attacks for embodied agents. In particular, we generate spatiotemporal perturbations to form 3D adversarial examples, which exploit the interaction history in both the temporal and spatial dimensions. Regarding the temporal dimension, since agents make predictions based on historical observations, we develop a trajectory attention module to explore scene view contributions, which further help localize 3D objects appeared with highest stimuli. By conciliating with clues from the temporal dimension, along the spatial dimension, we adversarially perturb the physical properties (e.g., texture and 3D shape) of the contextual objects that appeared in the most important scene views.
 
