@@ -14,5 +14,5 @@ six==1.11.0
 torch==0.3.1
 torchvision==0.2.1
 tqdm==4.23.4
-urllib3==1.22
+urllib3==1.24.2
 neural_renderer
