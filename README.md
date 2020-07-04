@@ -1,10 +1,12 @@
 # Spatiotemporal Attacks for Embodied Agents
 
-Code for the paper [Spatiotemporal Attacks for Embodied Agents](https://arxiv.org/pdf/2005.09161.pdf)
-[Aishan Liu](https://liuaishan.github.io/), Tairan Huang, [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/), Yitao Xu, Yuqing Ma, [Xinyun Chen](https://jungyhuk.github.io/), Stephen Maybank, [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html)
-European Conference on Computer Vision (ECCV), 2020
+Code for the paper 
 
-![avatar](1.jpg)
+[Spatiotemporal Attacks for Embodied Agents](https://arxiv.org/pdf/2005.09161.pdf)
+<br>[Aishan Liu](https://liuaishan.github.io/), Tairan Huang, [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/), Yitao Xu, Yuqing Ma, [Xinyun Chen](https://jungyhuk.github.io/), Stephen Maybank, [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html)
+<br>European Conference on Computer Vision (ECCV), 2020
+
+![avatar](frontpage.png)
 
 In this work, we take the first step to study adversarial attacks for embodied agents. In particular, we generate spatiotemporal perturbations to form 3D adversarial examples, which exploit the interaction history in both the temporal and spatial dimensions. Regarding the temporal dimension, since agents make predictions based on historical observations, we develop a trajectory attention module to explore scene view contributions, which further help localize 3D objects appeared with highest stimuli. By conciliating with clues from the temporal dimension, along the spatial dimension, we adversarially perturb the physical properties (e.g., texture and 3D shape) of the contextual objects that appeared in the most important scene views.
 
