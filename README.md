@@ -15,7 +15,7 @@ For questions regarding implementation contact [Yitao Xu](xuyitao@buaa.edu.cn)
 # To Perform Attacks
 
 ## Single View Attack
-With [House3D](https://github.com/facebookresearch/house3d) environment and [EQA-v1](https://github.com/facebookresearch/EmbodiedQA) dataset, you can simply run the spatiotemporal attack by running the following code to generate texture changed object (with single view). The noise level is controlled by parameter epsilon.
+With [EQA-v1](https://github.com/facebookresearch/EmbodiedQA) dataset, you can simply perform the spatiotemporal attack by running the following code to generate texture changed object (with single view). The noise level is controlled by parameter epsilon.
 ```python
 python attack.py
 ```
