@@ -12,7 +12,7 @@ Code for the paper
 
 In this work, we take the first step to study adversarial attacks for embodied agents. In particular, we generate spatiotemporal perturbations to form 3D adversarial examples, which exploit the interaction history in both the temporal and spatial dimensions. Regarding the temporal dimension, since agents make predictions based on historical observations, we develop a trajectory attention module to explore scene view contributions, which further help localize 3D objects appeared with highest stimuli. By conciliating with clues from the temporal dimension, along the spatial dimension, we adversarially perturb the physical properties (e.g., texture and 3D shape) of the contextual objects that appeared in the most important scene views.
 
-For questions regarding implementation contact [Yitao Xu](xuyitao@buaa.edu.cn)
+For questions regarding implementation contact [Yitao Xu](study0098@gmail.com)
 
 # To Perform Attacks
 
